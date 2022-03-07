@@ -19,11 +19,12 @@ Data Overview
 
 Explain where the data came from and it's specific path so it's easy to find. Also not any nomenclature you need to clarify to any user using the data to reduce confusion. 
 
-| Data          | # of Entries | Directory Path |
-|---------------|--------------|----------------|
-| Ligands (SDF) | 50           |                |    
-| Ligands (Mol2)| 50           |                |                                                                                 
-| Proteins      | 100          |                |                                                                                 
+
+| Data                  | File Format    | Entries # | Directory Path |
+|-----------------------|----------------|-----------|----------------|
+| Ligands               | SDF            | 9         |                |    
+| Binding Affinities    | Dat            | 9         |                |                                                                                
+| Raw Data              | Excel          | 100       |                |                                                                                 
 
 Data Collection
 ===============
