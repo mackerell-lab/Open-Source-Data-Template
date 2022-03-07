@@ -21,7 +21,7 @@ Any notes to how the data was collected, Explain where each collection of file f
 
 -  `SDF` Files were extrapolated from RDKit from a SMILES conversion. 
 -  `PDB` Files were downloaded from the rscb with slight modifications into the nomenclature of the atom types etc.
--  
+
 Authors
 =======
 
