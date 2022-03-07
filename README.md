@@ -5,14 +5,25 @@ YOUR TITLE HERE
 ![Repo Size](https://img.shields.io/github/repo-size/mackerell-lab/Open-Source-Data-Template)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmackerell-lab%2FOpen-Source-Data-Template.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmackerell-lab%2FOpen-Source-Data-Template?ref=badge_shield)
 
-Overview
-========
+Publication Overview
+====================
 
 |                     |                                                                                            |
 | ------------------- | ------------------------------------------------------------------------------------------ |
 | Link to Paper       | ![saythanks](https://img.shields.io/badge/Paper-Paper-ff69b4.svg)                          |
 | Link to Other Stuff |                                                                                            |
 
+
+Data Overview
+=============
+
+Explain where the data came from and it's specific path so it's easy to find. Also not any nomenclature you need to clarify to any user using the data to reduce confusion. 
+
+| Data          | # of Entries | Directory Path |
+|---------------|--------------|----------------|
+| Ligands (SDF) | 50           |                |    
+| Ligands (Mol2)| 50           |                |                                                                                 
+| Proteins      | 100          |                |                                                                                 
 
 Data Collection
 ===============
